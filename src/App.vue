@@ -17,7 +17,6 @@ import IncidenciaList from "./components/IncidenciaList.vue";
 </script>
 
 <style>
-/* Título arriba a la derecha */
 .page-title {
   margin-top: 5%;
   text-align: left;
@@ -43,7 +42,6 @@ import IncidenciaList from "./components/IncidenciaList.vue";
   min-width: 300px;
 }
 
-/* Columna derecha: lista */
 .list-section {
   flex: 1;            
   background: #fff;
